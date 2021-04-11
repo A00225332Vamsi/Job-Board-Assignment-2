@@ -1,0 +1,15 @@
+{
+    "name": "Job Search Board",
+    "short_name": "Job Portal",
+    "start_url": "/",
+    "scope": "/",
+    "display": "minimal-ui",
+    "icons": [
+        {
+            "sizes": "144x144",
+            "type": "image/png",
+            "src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartkey.com%2Fview%2FoohJxi_job-portal-icon-in-png%2F&psig=AOvVaw2XZgpCjEaZxgrNNSe3yTm2&ust=1617389935983000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICWs5nd3e8CFQAAAAAdAAAAABAD"
+        }
+    ]
+
+}
